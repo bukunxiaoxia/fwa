@@ -1,0 +1,1 @@
+more details about the code of dynFWA can be found in paper "Dynamic Search in Fireworks Algorithm" WCCI2014 CEC.
